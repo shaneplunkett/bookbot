@@ -1,6 +1,6 @@
 # Bookbot
 
-Guided project to implment a CLI that analysis static text for Boot.dev
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 ## Project Summary
 
